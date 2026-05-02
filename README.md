@@ -25,9 +25,9 @@ chatbots, dashboards, workflow automation, and AI product visuals.
 ---
 
 ### 📫 Reach Me
-- 💼 Portfolio: [your-notion-link]
-- 🔗 LinkedIn: [your-linkedin-url]
-- 📧 Email: your@email.com
+- 💼 Portfolio: https://www.notion.so/Shruti-Mathur-AI-Data-Portfolio-354b16cbf64480c497f6df7704f95bf7?source=copy_link
+- 🔗 LinkedIn: www.linkedin.com/in/shrutimathur721
+- 📧 Email: shruti2003mathur@gmail.com
 
 ---
 *Open to freelance projects in AI, data analytics, and automation.*
